@@ -7,8 +7,8 @@ require (
 	github.com/hashicorp/vault/api/auth/kubernetes v0.9.0
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/viper v1.20.1
-	github.com/anggardagasta/go-sdk/vaultremote v0.0.0-20250505054413-ee7701cca27d
-	github.com/anggardagasta/go-sdk/zlog v0.0.0-20250505054413-ee7701cca27d
+	github.com/anggardagasta/go-sdk/vaultremote v0.0.0-20250619080855-2bfd38c6cb2c // indirect
+    github.com/anggardagasta/go-sdk/zlog v0.0.0-20250619080855-2bfd38c6cb2c // indirect
 )
 
 require (

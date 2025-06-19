@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
+	"github.com/anggardagasta/go-sdk/zlog"
 	"github.com/spf13/viper"
-	"gitlab.com/anggardagasta/sdk/zlog"
 )
 
 // LoadConfiguration loads configuration from vault

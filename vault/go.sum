@@ -4,6 +4,10 @@ github.com/Masterminds/semver/v3 v3.1.1 h1:hLg3sBzpNErnxhQtUy/mmLR2I9foDujNK030I
 github.com/Masterminds/semver/v3 v3.1.1/go.mod h1:VPu/7SZ7ePZ3QOrcuXROw5FAcLl4a0cBrbBpGY/8hQs=
 github.com/Masterminds/sprig/v3 v3.2.1 h1:n6EPaDyLSvCEa3frruQvAiHuNp2dhBlMSmkEr+HuzGc=
 github.com/Masterminds/sprig/v3 v3.2.1/go.mod h1:UoaO7Yp8KlPnJIYWTFkMaqPUYKTfGFPhxNuwnnxkKlk=
+github.com/anggardagasta/go-sdk/vaultremote v0.0.0-20250619080855-2bfd38c6cb2c h1:M0gmYvn+94GfGZvIYBCb2FnnMoKOWswR/nVvwbcHj+s=
+github.com/anggardagasta/go-sdk/vaultremote v0.0.0-20250619080855-2bfd38c6cb2c/go.mod h1:GzFyn+P0UrwlS71W627uBZAOrZhwUQqa76TYK3QAFvE=
+github.com/anggardagasta/go-sdk/zlog v0.0.0-20250619080855-2bfd38c6cb2c h1:H9mUjARCMWJs39YcLHpoPTvTmEX4xts2YlCpwAPp6cI=
+github.com/anggardagasta/go-sdk/zlog v0.0.0-20250619080855-2bfd38c6cb2c/go.mod h1:kKAfOpb2gJACyleTp+Wzg3tZSed/s+LLJ02IOH+GA+s=
 github.com/armon/go-radix v0.0.0-20180808171621-7fddfc383310 h1:BUAU3CGlLvorLI26FmByPp2eC2qla6E1Tw+scpcg/to=
 github.com/armon/go-radix v0.0.0-20180808171621-7fddfc383310/go.mod h1:ufUuZ+zHj4x4TnLV4JWEpy2hxWSpsRywHrMgIH9cCH8=
 github.com/bgentry/speakeasy v0.1.0 h1:ByYyxL9InA1OWqxJqqp2A5pYHUrCiAL6K3J+LKSsQkY=
@@ -152,6 +156,8 @@ gitlab.com/anggardagasta/sdk/zlog v0.0.0-20250505053647-f078c8e9a2e9 h1:bN/z3mPC
 gitlab.com/anggardagasta/sdk/zlog v0.0.0-20250505053647-f078c8e9a2e9/go.mod h1:f1B/TAMs0upf6irT3OzkKDLMhMvmvgl9Xt/VCl9BzmY=
 gitlab.com/anggardagasta/sdk/zlog v0.0.0-20250505054413-ee7701cca27d h1:TYbkDWyAvqdeLJTXfJ+HIAwkHRPfS6Thcf7QEDnGKJ0=
 gitlab.com/anggardagasta/sdk/zlog v0.0.0-20250505054413-ee7701cca27d/go.mod h1:f1B/TAMs0upf6irT3OzkKDLMhMvmvgl9Xt/VCl9BzmY=
+gitlab.com/anggardagasta/sdk/zlog v0.0.0-20250509020621-deec3cb794ad h1:PDUKTnhBXsjXwEFwP60VpiDX8ZLZF4xyQDAqxMIZJog=
+gitlab.com/anggardagasta/sdk/zlog v0.0.0-20250509020621-deec3cb794ad/go.mod h1:f1B/TAMs0upf6irT3OzkKDLMhMvmvgl9Xt/VCl9BzmY=
 go.uber.org/atomic v1.11.0 h1:ZvwS0R+56ePWxUNi+Atn9dWONBPp/AUETXlHW0DxSjE=
 go.uber.org/atomic v1.11.0/go.mod h1:LUxbIzbOniOlMKjJjyPfpl4v+PKK2cNJn91OQbhoJI0=
 go.uber.org/multierr v1.11.0 h1:blXXJkSxSSfBVBlC76pxqeO+LN3aDfLQo+309xJstO0=
