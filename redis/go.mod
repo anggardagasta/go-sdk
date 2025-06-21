@@ -1,4 +1,4 @@
-module gitlab.com/anggardagasta/sdk/redis
+module gitlab.com/anggardagasta/go-sdk/redis
 
 go 1.24.2
 
