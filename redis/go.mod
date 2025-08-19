@@ -1,8 +1,8 @@
 module github.com/anggardagasta/go-sdk/redis
 
-go 1.24.2
+go 1.25.0
 
-require github.com/redis/go-redis/v9 v9.10.0
+require github.com/redis/go-redis/v9 v9.12.1
 
 require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
